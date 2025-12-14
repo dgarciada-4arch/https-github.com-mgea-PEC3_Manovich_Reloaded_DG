@@ -1,5 +1,5 @@
-# PEC3 – Manovich Reloaded  
-## Hibridación en la cultura digital contemporánea
+# PEC3 – Visionando el futuro con las gafas de Manovich 
+## Recurso de aprendizaje de Cultura Digital
 
 **Autor:** DIEGO GARCIA 
 **Asignatura:** Cultura Digital
