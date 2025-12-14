@@ -54,5 +54,5 @@ Tanto TikTok como SkyView App evidencian que la hibridación en los nuevos medio
 ## Recursos y enlaces
 
 - https://www.tiktok.com  
-- https://skyviewapp.com  
+- https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en&pli=1
 - Manovich, L. *El software toma el mando*  
