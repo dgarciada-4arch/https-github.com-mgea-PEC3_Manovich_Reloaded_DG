@@ -3,7 +3,7 @@
 
 **Autor:** DIEGO GARCIA 
 **Asignatura:** Cultura Digital
-**Licencia:** Creative Commons CC BY-SA  
+**Actividad:** PEC 3
 
 ---
 
