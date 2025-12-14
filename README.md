@@ -7,11 +7,10 @@
 
 ---
 
-## Introducción
+## Planteamiento
+En *El software toma el mando*, Lev Manovich analiza cómo el software se convierte en el agente central de la cultura Digital actual, haciendo posible procesos de **hibridación** entre medios, lenguajes y prácticas culturales. Esta hibridación no consiste únicamente en la unir o superponer los formatos, sino en una fusión más profunda mediante lógicas computacionales, diferentes interfaces y algoritmos.
 
-En *El software toma el mando*, Lev Manovich analiza cómo el software se convierte en el agente central de la cultura contemporánea, posibilitando procesos de **hibridación** entre medios, lenguajes y prácticas culturales. Esta hibridación no consiste únicamente en la yuxtaposición de formatos, sino en su fusión profunda mediante lógicas computacionales, interfaces y algoritmos.
-
-Siguiendo este marco teórico, el presente ensayo propone dos ejemplos contemporáneos que podrían formar parte de una hipotética segunda edición del libro de Manovich: **TikTok** y **SkyView App**. Ambos casos ilustran cómo el software no solo media la experiencia cultural, sino que redefine la relación entre usuario, contenido y realidad.
+Siguiendo este marco teórico, el presente ensayo propone dos ejemplos actuales y conocidos ampliamente por los usuarios digitales: **TikTok** y **SkyView App**. Ambos casos muestran cómo los diferentes softwares no solo forman parte de experiencias culturales digitales, sino que redefinen la relación entre los usuarios, los contenidos y la realidad con la que se observa.
 
 ---
 
