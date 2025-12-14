@@ -1,4 +1,58 @@
+# PEC3 – Manovich Reloaded  
+## Hibridación en la cultura digital contemporánea
 
-# PEC3 – Ensayo de Hibridación (Lev Manovich)
+**Autor:** DIEGO GARCIA 
+**Asignatura:** Cultura Digital
+**Licencia:** Creative Commons CC BY-SA  
 
-El presente documento es un ensayo sobre la hibridación propuesta por Lev Manovich en su libro *El software toma el mando*, realizado para la asignatura de **Cultura Digital** (actividad PEC3).
+---
+
+## Introducción
+
+En *El software toma el mando*, Lev Manovich analiza cómo el software se convierte en el agente central de la cultura contemporánea, posibilitando procesos de **hibridación** entre medios, lenguajes y prácticas culturales. Esta hibridación no consiste únicamente en la yuxtaposición de formatos, sino en su fusión profunda mediante lógicas computacionales, interfaces y algoritmos.
+
+Siguiendo este marco teórico, el presente ensayo propone dos ejemplos contemporáneos que podrían formar parte de una hipotética segunda edición del libro de Manovich: **TikTok** y **SkyView App**. Ambos casos ilustran cómo el software no solo media la experiencia cultural, sino que redefine la relación entre usuario, contenido y realidad.
+
+---
+
+## Caso 1: TikTok — La hibridación algorítmica del audiovisual social
+
+TikTok representa una de las formas más avanzadas de hibridación cultural impulsada por software. A primera vista, puede parecer una plataforma de vídeos cortos; sin embargo, analizada desde la perspectiva de Manovich, TikTok es un sistema híbrido donde confluyen y se transforman múltiples medios y lógicas culturales.
+
+En TikTok se hibridan el lenguaje audiovisual del cine y la televisión, la música popular, la escritura breve (hashtags, subtítulos), la narrativa fragmentada y la interacción social. No obstante, el elemento decisivo es el **algoritmo**, que actúa como motor narrativo y curatorial. El relato ya no se construye de forma lineal ni autoral, sino que emerge de una base de datos gobernada por sistemas de recomendación.
+
+Desde el punto de vista de Manovich, TikTok ejemplifica la sustitución de la narrativa clásica por la **lógica de base de datos**, donde el feed personalizado es una composición dinámica generada en tiempo real. El usuario no consume una obra cerrada, sino una secuencia infinita de microcontenidos ensamblados algorítmicamente.
+
+Además, TikTok introduce una hibridación entre consumo y producción. El usuario es simultáneamente espectador, creador y remezclador. Funciones como el *duo*, el *stitch* o el uso compartido de sonidos convierten la plataforma en un entorno de creación colectiva, cercano a la filosofía del *open source*, donde los contenidos funcionan como módulos reutilizables.
+
+En este sentido, TikTok no es solo una red social, sino un **software cultural total**, donde el lenguaje audiovisual, la música, la interacción y el cálculo computacional se funden en un nuevo medio autónomo. La plataforma no representa la cultura: la ejecuta.
+
+---
+
+## Caso 2: SkyView App — Hibridación entre realidad física, datos y visualización
+
+SkyView App es una aplicación de realidad aumentada que permite identificar estrellas, planetas y constelaciones apuntando el dispositivo móvil hacia el cielo. Analizada desde el marco de Manovich, SkyView constituye un ejemplo claro de hibridación entre realidad física, representación científica y software interactivo.
+
+En este caso, se combinan el mapa astronómico tradicional, la visualización científica, la base de datos astronómica, la interfaz gráfica y la experiencia espacial del usuario. Sin embargo, estos elementos no coexisten de forma independiente, sino que se integran mediante la mediación del software y los sensores del dispositivo.
+
+SkyView transforma el cielo —un objeto natural— en una interfaz navegable. La cámara, el giroscopio, el GPS y la base de datos trabajan conjuntamente para generar una experiencia híbrida en la que el espacio físico se superpone con capas de información digital. El resultado no es ni una representación científica clásica ni una simple visualización gráfica, sino una nueva forma de percepción aumentada.
+
+Desde la lógica de Manovich, SkyView ejemplifica la **transcodificación cultural**, donde conceptos científicos se adaptan a estructuras computacionales e interfaces visuales pensadas para el usuario contemporáneo. El conocimiento astronómico se convierte en experiencia interactiva, personalizada y visualmente accesible.
+
+Además, SkyView desplaza el rol del usuario: ya no es un lector de mapas ni un observador pasivo, sino un explorador activo que genera el recorrido informativo con su propio cuerpo y movimiento. El software redefine así la relación entre conocimiento, espacio y percepción.
+
+SkyView demuestra cómo la hibridación digital no solo afecta a los medios culturales, sino también a nuestra forma de comprender y experimentar la realidad, confirmando la tesis central de Manovich: el software no es una herramienta neutral, sino una fuerza estructurante de la cultura contemporánea.
+
+---
+
+## Conclusión
+
+Tanto TikTok como SkyView App evidencian que la hibridación en los nuevos medios es un proceso profundamente ligado al software. En ambos casos, el contenido, la interacción y la experiencia están gobernados por sistemas computacionales que redefinen los lenguajes culturales. Estos ejemplos confirman la vigencia del pensamiento de Manovich y su aplicabilidad a los entornos digitales actuales.
+
+---
+
+## Recursos y enlaces
+
+- https://www.tiktok.com  
+- https://skyviewapp.com  
+- Manovich, L. *El software toma el mando*  
