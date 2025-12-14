@@ -14,7 +14,7 @@ Siguiendo este marco teórico, el presente ensayo propone dos ejemplos actuales 
 
 ---
 
-## Caso 1: TikTok — La hibridación algorítmica del audiovisual social
+## Re-descubriendo la hibridacion: Caso 1. TikTok
 
 TikTok representa una de las formas más avanzadas de hibridación cultural impulsada por software. A primera vista, puede parecer una plataforma de vídeos cortos; sin embargo, analizada desde la perspectiva de Manovich, TikTok es un sistema híbrido donde confluyen y se transforman múltiples medios y lógicas culturales.
 
@@ -28,7 +28,7 @@ En este sentido, TikTok no es solo una red social, sino un **software cultural t
 
 ---
 
-## Caso 2: SkyView App — Hibridación entre realidad física, datos y visualización
+## Re-descubriendo la hibridacion: Caso 2. SkyView App
 
 SkyView App es una aplicación de realidad aumentada que permite identificar estrellas, planetas y constelaciones apuntando el dispositivo móvil hacia el cielo. Analizada desde el marco de Manovich, SkyView constituye un ejemplo claro de hibridación entre realidad física, representación científica y software interactivo.
 
@@ -42,11 +42,7 @@ Además, SkyView desplaza el rol del usuario: ya no es un lector de mapas ni un 
 
 SkyView demuestra cómo la hibridación digital no solo afecta a los medios culturales, sino también a nuestra forma de comprender y experimentar la realidad, confirmando la tesis central de Manovich: el software no es una herramienta neutral, sino una fuerza estructurante de la cultura contemporánea.
 
----
-
-## Conclusión
-
-Tanto TikTok como SkyView App evidencian que la hibridación en los nuevos medios es un proceso profundamente ligado al software. En ambos casos, el contenido, la interacción y la experiencia están gobernados por sistemas computacionales que redefinen los lenguajes culturales. Estos ejemplos confirman la vigencia del pensamiento de Manovich y su aplicabilidad a los entornos digitales actuales.
+Tanto TikTok como SkyView App evidencian que la hibridación en los nuevos medios es un proceso profundamente ligado al software. En ambos casos, el contenido, la interacción y la experiencia están sostenidos por sistemas computacionales que redefinen el lenguaje cultural digital. Los ejemplos antes citados confirman la vigencia del pensamiento de Manovich y su absoluta aplicación a los entornos digitales actuales.
 
 ---
 
