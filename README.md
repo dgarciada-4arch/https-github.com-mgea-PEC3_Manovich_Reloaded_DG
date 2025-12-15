@@ -12,6 +12,8 @@ En *El software toma el mando*, Lev Manovich analiza cómo el software se convie
 
 Siguiendo este marco teórico, el presente ensayo propone dos ejemplos actuales y conocidos ampliamente por los usuarios digitales: **TikTok** y **SkyView App**. Ambos casos muestran cómo los diferentes softwares no solo forman parte de experiencias culturales digitales, sino que redefinen la relación entre los usuarios, los contenidos y la realidad con la que se observa.
 
+![Imagen planteamiento](images/ensayo_tiktok_skyview.png)
+
 ---
 
 ## Re-descubriendo la hibridacion: Caso 1. TikTok
