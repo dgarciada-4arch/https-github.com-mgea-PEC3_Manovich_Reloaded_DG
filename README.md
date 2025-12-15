@@ -23,7 +23,7 @@ TikTok es conocido por ser plataforma de vídeos de origen chino, pero es mucho 
 
 - **Lenguajes visuales y sonoros** (vídeo + música).  
 - **Códigos textuales** (subtítulos y hashtags).  
-- **Interacción social** (likes, comentarios, dúos y remixes).  
+- **Interacción social** (likes, comentarios, remixes...).  
 - **Algoritmos de recomendación** que generan nuevas narrativas.
 
 Desde la perspectiva de Manovich, TikTok no representa una colección de contenidos (videos), sino una **base de datos narrativa**, donde la experiencia del usuario se genera mediante algoritmos
