@@ -1,7 +1,8 @@
-# PEC3 – Manovich Reloaded  
-## Hibridación en la cultura digital contemporánea
+# PEC3 – Visionando el futuro con las gafas de Manovich  
+## Recurso de aprendizaje de Cultura Digital 
 
-**Autor:** DIEGO GARCIA 
+**Autor:** DIEGO GARCIA
+**Fecha:** 15/12/2025
 **Asignatura:** Cultura Digital
 **Actividad:** PEC3
 
@@ -13,7 +14,9 @@ En *El software toma el mando*, Lev Manovich analiza cómo el software se convie
 
 Siguiendo este marco teórico, el presente ensayo propone dos ejemplos contemporáneos que podrían formar parte de una hipotética segunda edición del libro de Manovich: **TikTok** y **SkyView App**. Ambos casos ilustran cómo el software no solo media la experiencia cultural, sino que redefine la relación entre usuario, contenido y realidad.
 
-![Imagen de la intro](images/ensayo tiktok-skyview.png)
+![Imagen intro](images/ensayo tiktok-skyview.png)
+
+
 
 ---
 
@@ -61,6 +64,7 @@ Tanto TikTok como SkyView App evidencian que la hibridación en los nuevos medio
 - Manovich, L. *El software toma el mando*  
 
 /IMAGES
+
 
 
 
