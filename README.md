@@ -32,6 +32,14 @@ en tiempo real. El orden y sentido de los contenidos no está predefinido, sino 
 TikTok por tanto es un claro ejemplo de la **fusión de medios clásicos y digitales**: La música se divide en partes, los vídeos se consumen en pequeños trozos y las historias ya no siguen un orden fijo; y el usuario, simultáneamente es espectador y también el creador. 
 Las funciones de *duo* o *remix* convierten cada vídeo en un sistema reutilizable para procesos colaborativos, similar a cómo en software open source los módulos de código se comparten y reutilizan en repositorios comunitarios, al estilo de GitHub.
 
+Si lo analizamos con más calma, TikTok también supone un cambio importante en la forma en que utilizzamos el tiempo y la atención en los medios digitales. Frente a otros formatos tradicionales como el cine o la televisión, actualmente desfasados, donde el espectador se adapta al ritmo de la película o del programa de TV, aquí es el contenido el que se adapta constantemente al usuario. El software es el que decide la duración, el orden y el número de repeticiones, optimizando cada segundo para intentar maximizar el tiempo que pasamos mirando la pantalla.
+
+Este fenómeno conecta directamente con una de las ideas centrales de Manovich: el software no solo organiza los contenidos, sino que modela comportamientos culturales. En TikTok, el gesto físico de deslizar el dedo se convierte en una parte esencial de la experiencia. La interfaz y los algoritmos forman un sistema híbrido donde ya no se puede separar claramente tecnología y cultura, de hecho están fusionados.
+
+Además, TikTok no funciona igual para todos los usuarios. Cada feed es único, lo que refuerza la idea de que el medio ya no es un objeto fijo, sino un proceso dinámico. En este sentido, TikTok no indica "per se" cultura, sino que la genera en tiempo real a partir de todos los datos, estadísticas y patrones de uso recabados anteriormente.
+
+Por todo ello, TikTok encajaría perfectamente en una segunda edición de El software toma el mando. No solo como una red social de moda, sino como un ejemplo claro de cómo el software ha pasado a ser el auténtico protagonista de la experiencia cultural digital actual.
+
 Basado en mi propia experiencia personal, TikTok es un ejemplo de modelo híbrido porque transforma los vídeos cortos con audio en otro proceso de creación colectiva, basada en la mezcla, reutiliación  de elementos y difusión masiva debido a los algoritmos.
 
 
