@@ -28,6 +28,7 @@ Además, TikTok introduce una hibridación entre consumo y producción. El usuar
 
 En este sentido, TikTok no es solo una red social, sino un **software cultural total**, donde el lenguaje audiovisual, la música, la interacción y el cálculo computacional se funden en un nuevo medio autónomo. La plataforma no representa la cultura: la ejecuta.
 
+![Imagen tiktok](images/panel_grid_layout_tiktoklive.webp)
 ---
 
 ## Re-descubriendo la hibridacion: Caso 2. SkyView App
