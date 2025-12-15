@@ -8,7 +8,7 @@
 
 ---
 
-## Introducción
+## Planteamiento
 
 En *El software toma el mando*, Lev Manovich analiza cómo el software se convierte en el agente central de la cultura contemporánea, posibilitando procesos de **hibridación** entre medios, lenguajes y prácticas culturales. Esta hibridación no consiste únicamente en la yuxtaposición de formatos, sino en su fusión profunda mediante lógicas computacionales, interfaces y algoritmos.
 
@@ -64,6 +64,7 @@ Tanto TikTok como SkyView App evidencian que la hibridación en los nuevos medio
 - Manovich, L. *El software toma el mando*  
 
 /IMAGES
+
 
 
 
