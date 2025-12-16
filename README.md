@@ -100,7 +100,7 @@ Por todo ello, SkyView App puede considerarse un ejemplo muy claro de hibridaci�
 
 Personalmente soy moderadamente aficionado a la astronomía, y durante muchos años, ocasionalmente, he utilizado telescopios y mapas astronómicos para observar el cielo. Garantizo que Skyview ha aumentado mi (siempre pequeño) conocimiento del firmamento y ha modificado drásticamente la frecuencia con la que observaba el cielo. Definitivamente ha cambiado la forma en la que me relaciono con el espacio.
 
-![Imagen skyview3](images/yo_de_pequeño.jpg)
+![Imagen skyview3](images/yo_de_pequeño.jpeg)
 
 ---
 
