@@ -2,7 +2,11 @@
 ## Recurso de aprendizaje de Cultura Digital
 
 **Autor:** DIEGO GARCIA 
+
+
 **Asignatura:** Cultura Digital
+
+
 **Actividad:** PEC 3
 
 ---
