@@ -107,9 +107,11 @@ Personalmente soy moderadamente aficionado a la astronom√≠a, y durante muchos a√
 ## Recursos y enlaces
 
 - Tik Tok. Obtenido de
+  
   https://www.tiktok.com
   
 - Skyview Lite App. Obtenido de
+  
   https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en&pli=1
   
 - Manovich, L. (2013) *El software toma el mando*. Barcelona: Editorial UOC.
