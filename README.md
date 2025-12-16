@@ -17,14 +17,14 @@ En *El software toma el mando*, Manovich comenta que el software además de inte
 
 
 «Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles».
--Lev Manovich
+**-Lev Manovich.**
 
 
 ![Imagen inicial](images/ensayo_tiktok_skyview.png)
 
 
 
-El presente ensayo propone dos casos de hibridación **recientes y no analizados en el libro**, que ilustran cómo el software redefine formatos, sentidos y experiencias: **TikTok** y **SkyView App**. Ambos ejemplos corroboran que el software reconfigura la cultura y sobre todo, la percepción de la realidad.
+El presente ensayo propone dos casos de hibridación **actuales y no analizados en su libro**, que ilustran cómo el software redefine formatos, sentidos y experiencias: **TikTok** y **SkyView App**. Ambos ejemplos corroboran que el software reconfigura la cultura y sobre todo, la percepción de la realidad.
 
 
 
@@ -73,10 +73,10 @@ Basado en mi propia experiencia personal, TikTok es un ejemplo de modelo híbrid
 
 SkyView App es una aplicación de realidad aumentada que permite **explorar el cielo nocturno superponiendo datos astronómicos sobre imágenes reales captadas por el dispositivo**. En este caso, la hibridación explicasda por Manovich ocurre entre:
 
-- El mundo físico (el cielo real).  
-- La base de datos astronómica (planetas, estrellas, constelaciones).  
-- La visualización interactiva gracias sensores del dispositivo (cámara, GPS y giroscopio).  
-- Interfaces intuitivas de usuario.
+- **El mundo físico (el cielo real).**  
+- **La base de datos astronómica (planetas, estrellas, constelaciones).**
+- **La visualización interactiva gracias sensores del dispositivo (cámara, GPS y giroscopio).**  
+- **Interfaces intuitivas de usuario.**
 
 
 
