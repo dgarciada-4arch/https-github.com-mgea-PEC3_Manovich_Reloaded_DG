@@ -86,20 +86,19 @@ Desde la óptica de Manovich, SkyView supera la simple visualización digital: e
 
 Además este tipo de hibridación modifica la percepción del espacio y aumenta su conocimiento ya que integra los sensores físicos propioos de los teléfonos móviles con bases de datos y la visualización digital. Por tanto este software crea una experiencia que modifica la forma en que habitualmente entendemos, conocemos y nos relacionamos con el espacio.
 
-Personalmente soy moderadamente aficionado a la astronomía, y durante muchos años, ocasionalmente, he utilizado telescopios y mapas astronómicos para observar el cielo. Garantizo que Skyview ha aumentado mi (siempre pequeño) conocimiento del firmamento y ha modificado drásticamente la frecuencia con la que observaba el cielo. Definitivamente ha cambiado la forma en la que me relaciono con el espacio.
-
-
 
 Si se analiza con más detalle, SkyView App también es un ejempo de  cómo el software puede transformar el conocimiento de una experiencia accesible y cotidiana. Tradicionalmente, la astronomía ha estado vinculada a libros demasiado técnicos, mapas complejos de leer o instrumentos específicos que requerían un aprendizaje profundo previo. A diferencia de ello, SkyView cambia toda esa complejidad a un lenguaje más visual e interactivo, apoyándose en interfaces sencillas y en la inmediatez de los dispositivos móviles.
 
 ![Imagen skyview](images/Skayview_2_landing-original.jpg)
 
 
-Desde la perspectiva de Manovich, este proceso puede entenderse como un caso claro de transcodificación cultural, donde el saber científico se adapta al software junto al diseño de interfaces de Apps actuales. El cielo deja de ser un espacio abstracto  y muy distante, complejo de entender para convertirse en un entorno mágico, navegable, lúdico, en el que el usuario aprende explorando sin necesidad de mapas u objetos complejos. El conocimiento ya no es recibido de forma pasiva, sino que se construye a partir de la interacción directa con el entorno físico, siendo aumentado por capas digitales.
+Fijándonos en la perspectiva de Manovich, este proceso puede entenderse como un caso claro de transcodificación cultural, donde el saber científico se adapta al software junto al diseño de interfaces de Apps actuales. El cielo deja de ser un espacio abstracto  y muy distante, complejo de entender para convertirse en un entorno mágico, navegable, lúdico, en el que el usuario aprende explorando sin necesidad de mapas u objetos complejos. El conocimiento ya no es recibido de forma pasiva, sino que se construye a partir de la interacción directa con el entorno físico, siendo aumentado por capas digitales.
 
 Otro aspecto interesante es que SkyView no impone un modelo fijo, si no que  cada usuario genera su propia experiencia en función de hacia dónde apunta el dispositivo, del momento del día o del lugar en el que se encuentra. Esto refuerza la idea de que el medio no es un objeto cerrado, sino un sistema dinámico que responde al contexto del dispositivo y sobre todo, a las acciones del usuario. El software, en este sentido, actúa como intermediario entre el mundo real y la información digital, reorganizando ambos en tiempo real.
 
 Por todo ello, SkyView App puede considerarse un ejemplo muy claro de hibridación moderna, donde realidad, datos, interfaz y cuerpo se integran en una única experiencia. Su funcionamiento confirma la tesis de Manovich de que el software no solo representa el mundo, sino que redefine nuestra forma de percibirlo, entenderlo y relacionarnos con él en la vida cotidiana.
+
+Personalmente soy moderadamente aficionado a la astronomía, y durante muchos años, ocasionalmente, he utilizado telescopios y mapas astronómicos para observar el cielo. Garantizo que Skyview ha aumentado mi (siempre pequeño) conocimiento del firmamento y ha modificado drásticamente la frecuencia con la que observaba el cielo. Definitivamente ha cambiado la forma en la que me relaciono con el espacio.
 
 
 
@@ -107,6 +106,9 @@ Por todo ello, SkyView App puede considerarse un ejemplo muy claro de hibridaci�
 
 ## Recursos y enlaces
 
-- https://www.tiktok.com  
+- Tik Tok. Obtenido de
+  https://www.tiktok.com  
 - https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en&pli=1
-- Manovich, L. *El software toma el mando*  
+- Manovich, L. (2013)*El software toma el mando*. Barcelona: Editorial UOC.
+- Manovich, L. (2001)*El lenguaje de los medios*. Barcelona: Editorial Paidós.
+
