@@ -26,7 +26,6 @@ El presente ensayo propone dos casos de hibridación **recientes y no analizados
 
 ## Re-descubriendo la hibridacion: Caso 1. TikTok
 
-![Imagen inicial](images/imagen_de_hibridacion_segun_manovich.jpeg)
 
 TikTok es conocido por ser plataforma de vídeos de origen chino, pero es mucho más que eso, es un medio híbrido que combina:
 
@@ -41,6 +40,8 @@ en tiempo real. El orden y sentido de los contenidos no está predefinido, sino 
 TikTok por tanto es un claro ejemplo de la **fusión de medios clásicos y digitales**: La música se divide en partes, los vídeos se consumen en pequeños trozos y las historias ya no siguen un orden fijo; y el usuario, simultáneamente es espectador y también el creador. 
 Las funciones de *duo* o *remix* convierten cada vídeo en un sistema reutilizable para procesos colaborativos, similar a cómo en software open source los módulos de código se comparten y reutilizan en repositorios comunitarios, al estilo de GitHub.
 
+![Imagen inicial](images/imagen_de_hibridacion_segun_manovich.jpeg)
+
 Si lo analizamos con más calma, TikTok también supone un cambio importante en la forma en que utilizzamos el tiempo y la atención en los medios digitales. Frente a otros formatos tradicionales como el cine o la televisión, actualmente desfasados, donde el espectador se adapta al ritmo de la película o del programa de TV, aquí es el contenido el que se adapta constantemente al usuario. El software es el que decide la duración, el orden y el número de repeticiones, optimizando cada segundo para intentar maximizar el tiempo que pasamos mirando la pantalla.
 
 Este fenómeno conecta directamente con una de las ideas centrales de Manovich: el software no solo organiza los contenidos, sino que modela comportamientos culturales. En TikTok, el gesto físico de deslizar el dedo se convierte en una parte esencial de la experiencia. La interfaz y los algoritmos forman un sistema híbrido donde ya no se puede separar claramente tecnología y cultura, de hecho están fusionados.
@@ -52,7 +53,7 @@ Por todo ello, TikTok encajaría perfectamente en una segunda edición de El sof
 Basado en mi propia experiencia personal, TikTok es un ejemplo de modelo híbrido porque transforma los vídeos cortos con audio en otro proceso de creación colectiva, basada en la mezcla, reutiliación  de elementos y difusión masiva debido a los algoritmos.
 
 
-![Imagen tiktok](images/panel_grid_layout_tiktoklive.webp)
+
 ---
 
 ## Re-descubriendo la hibridacion: Caso 2. SkyView App
