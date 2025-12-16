@@ -126,4 +126,4 @@ Este ensayo intenta poner de manifiesto con claridad la idea central de la hibri
 
 ## Nota sobre el uso de inteligencia artificial
 
-En la elaboración de este trabajo se ha utilizado la inteligencia artificial generativa *ChatGPT (OpenAI, 2025)* para la creación de algunas imágenes empleadas con fines ilustrativos y académicos, debidamente indicadas en sus respectivas licencias.
+En la elaboración de este trabajo se ha utilizado la inteligencia artificial generativa **ChatGPT (OpenAI, 2025)** para la creación de algunas imágenes empleadas con fines ilustrativos y académicos, debidamente indicadas en sus respectivas licencias.
