@@ -71,7 +71,7 @@ Basado en mi propia experiencia personal, TikTok es un ejemplo de modelo híbrid
 ![Imagen skyview_2](images/skyview.webp)
 
 
-SkyView App es una aplicación de realidad aumentada que permite **explorar el cielo nocturno superponiendo datos astronómicos sobre imágenes reales captadas por el dispositivo**. En este caso, la hibridación explicasda por Manovich ocurre entre:
+SkyView App es una aplicación de realidad aumentada que permite **explorar el cielo nocturno superponiendo datos astronómicos sobre imágenes reales captadas por el dispositivo**. En este caso, la hibridación explicada por Manovich ocurre entre:
 
 - **El mundo físico (el cielo real).**  
 - **La base de datos astronómica (planetas, estrellas, constelaciones).**
