@@ -1,7 +1,7 @@
 # PEC3 – Visionando el futuro con las gafas de Manovich 
 ## Recurso de aprendizaje de Cultura Digital
 
-**Autor:** DIEGO GARCIA 
+**Autor:** Diego García
 
 
 **Asignatura:** Cultura Digital
