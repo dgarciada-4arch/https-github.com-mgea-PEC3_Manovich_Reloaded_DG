@@ -31,7 +31,7 @@ El presente ensayo propone dos casos de hibridación **recientes y no analizados
 ## Re-descubriendo la hibridacion: Caso 1. TikTok
 
 
-TikTok es conocido por ser plataforma de vídeos de origen chino, pero es mucho más que eso, es un medio híbrido que combina:
+TikTok es formalmente conocido por ser una plataforma de vídeos de origen chino, con una implantación polémica en Estados Unidos, no así en Europa. Pero en realidad es mucho más que una plataforma de vídeos, si no que es un medio híbrido que combina:
 
 - **Lenguajes visuales y sonoros** (vídeo + música).  
 - **Códigos textuales** (subtítulos y hashtags).  
