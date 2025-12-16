@@ -102,6 +102,8 @@ Personalmente soy moderadamente aficionado a la astronomía, y durante muchos a�
 
 ![Imagen skyview3](images/yo_de_pequeño.jpeg)
 
+---
+
 
 ## Reflexión final: hibridación y software como motor cultural digital.
 
