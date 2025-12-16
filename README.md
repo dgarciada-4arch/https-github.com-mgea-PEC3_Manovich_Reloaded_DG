@@ -66,6 +66,9 @@ Basado en mi propia experiencia personal, TikTok es un ejemplo de modelo híbrid
 
 ## Re-descubriendo la hibridacion: Caso 2. SkyView App
 
+![Imagen skyview_2](images/skyview.webp)
+
+
 SkyView App es una aplicación de realidad aumentada que permite **explorar el cielo nocturno superponiendo datos astronómicos sobre imágenes reales captadas por el dispositivo**. En este caso, la hibridación explicasda por Manovich ocurre entre:
 
 - El mundo físico (el cielo real).  
@@ -73,7 +76,7 @@ SkyView App es una aplicación de realidad aumentada que permite **explorar el c
 - La visualización interactiva gracias sensores del dispositivo (cámara, GPS y giroscopio).  
 - Interfaces intuitivas de usuario.
 
-![Imagen skyview_2](images/skyview.webp)
+
 
 Aquí, el software hace de mediador entre espectador y realidad: la cámara del dispositivo no solo captura, sino que **transforma visualmente el cielo en un mapa interactivo** donde los distintos elementos del firmamento adquieren nombres, etiquetas y rutas. Éstas rutas te llevan de un elemento del cielo a otro, donde se enlazan para una mejor localización y comprensión 
 
@@ -83,9 +86,12 @@ Además este tipo de hibridación modifica la percepción del espacio y aumenta 
 
 Personalmente soy moderadamente aficionado a la astronomía, y durante muchos años, ocasionalmente, he utilizado telescopios y mapas astronómicos para observar el cielo. Garantizo que Skyview ha aumentado mi (siempre pequeño) conocimiento del firmamento y ha modificado drásticamente la frecuencia con la que observaba el cielo. Definitivamente ha cambiado la forma en la que me relaciono con el espacio.
 
-![Imagen skyview](images/Skayview_2_landing-original.jpg)
+
 
 Si se analiza con más detalle, SkyView App también es un ejempo de  cómo el software puede transformar el conocimiento de una experiencia accesible y cotidiana. Tradicionalmente, la astronomía ha estado vinculada a libros demasiado técnicos, mapas complejos de leer o instrumentos específicos que requerían un aprendizaje profundo previo. A diferencia de ello, SkyView cambia toda esa complejidad a un lenguaje más visual e interactivo, apoyándose en interfaces sencillas y en la inmediatez de los dispositivos móviles.
+
+![Imagen skyview](images/Skayview_2_landing-original.jpg)
+
 
 Desde la perspectiva de Manovich, este proceso puede entenderse como un caso claro de transcodificación cultural, donde el saber científico se adapta al software junto al diseño de interfaces de Apps actuales. El cielo deja de ser un espacio abstracto  y muy distante, complejo de entender para convertirse en un entorno mágico, navegable, lúdico, en el que el usuario aprende explorando sin necesidad de mapas u objetos complejos. El conocimiento ya no es recibido de forma pasiva, sino que se construye a partir de la interacción directa con el entorno físico, siendo aumentado por capas digitales.
 
