@@ -6,7 +6,7 @@
 **Actividad:** PEC 3
 
 ---
-![Imagen planteamiento](images/imagen de hibridacion segun manovich.jpeg)
+![Imagen inicial](images/imagen_de_hibridacion_segun_manovich.jpeg)
 ## Planteamiento
 En *El software toma el mando*, Manovich comenta que el software además de intervenir en los nuevos medios, se convierte en el **principio estructurante de la cultura digital**, lo cual hace que ya no existan medios aislados, sino **ecosistemas híbridos**, donde la imagen, el texto, la interacción entre los diferentes sistemas y algoritmos se fusionan;
 «Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles».
