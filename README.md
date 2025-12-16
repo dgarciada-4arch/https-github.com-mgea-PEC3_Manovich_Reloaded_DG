@@ -6,9 +6,11 @@
 **Actividad:** PEC 3
 
 ---
-
+![Imagen planteamiento](images/imagen de hibridacion segun manovich.jpeg)
 ## Planteamiento
-En *El software toma el mando*, Manovich comenta que el software además de intervenir en los nuevos medios, se convierte en el **principio estructurante de la cultura digital**, lo cual hace que ya no existan medios aislados, sino **ecosistemas híbridos**, donde la imagen, el texto, la interacción entre los diferentes sistemas y algoritmos se fusionan. :contentReference[oaicite:1]{index=1}
+En *El software toma el mando*, Manovich comenta que el software además de intervenir en los nuevos medios, se convierte en el **principio estructurante de la cultura digital**, lo cual hace que ya no existan medios aislados, sino **ecosistemas híbridos**, donde la imagen, el texto, la interacción entre los diferentes sistemas y algoritmos se fusionan;
+«Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles».
+-Lev Manovich
 
 El presente ensayo propone dos casos de hibridación **recientes y no analizados en el libro**, que ilustran cómo el software redefine formatos, sentidos y experiencias: **TikTok** y **SkyView App**. Ambos ejemplos corroboran que el software reconfigura la cultura y sobre todo, la percepción de la realidad.
 
