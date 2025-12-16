@@ -106,17 +106,15 @@ Personalmente soy moderadamente aficionado a la astronomía, y durante muchos a�
 
 ## Recursos y enlaces
 
-- Tik Tok. Obtenido de
-  
+- Tik Tok. Obtenido de  
   https://www.tiktok.com
   
-- Skyview Lite App. Obtenido de
-  
+- Skyview Lite App. Obtenido de  
   https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en&pli=1
   
-- Manovich, L. (2013) *El software toma el mando*. Barcelona: Editorial UOC.
+- **Manovich, L. (2013)** *El software toma el mando*. Barcelona: Editorial UOC.
   
-- Manovich, L. (2001) *El lenguaje de los medios*. Barcelona: Editorial Paidós.
+- **Manovich, L. (2001)** *El lenguaje de los medios*. Barcelona: Editorial Paidós.
 
 ## Nota sobre el uso de inteligencia artificial
 
