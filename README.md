@@ -34,13 +34,15 @@ TikTok es conocido por ser plataforma de vídeos de origen chino, pero es mucho 
 - **Interacción social** (likes, comentarios, remixes...).  
 - **Algoritmos de recomendación** que generan nuevas narrativas.
 
+![Imagen tiktok1](images/tiktok_letras_logo.jpg) 
+
 Desde la perspectiva de Manovich, TikTok no representa una colección de contenidos (videos), sino una **base de datos narrativa**, donde la experiencia del usuario se genera mediante algoritmos
 en tiempo real. El orden y sentido de los contenidos no está predefinido, sino calculado intantáneamente según los patrones de consumo del usuario, intereses y mediciones de engagement. Es decir, estas métricas midan cuanto participan los usuarios, no solamente si están viendo el contenido.
 
 TikTok por tanto es un claro ejemplo de la **fusión de medios clásicos y digitales**: La música se divide en partes, los vídeos se consumen en pequeños trozos y las historias ya no siguen un orden fijo; y el usuario, simultáneamente es espectador y también el creador. 
 Las funciones de *duo* o *remix* convierten cada vídeo en un sistema reutilizable para procesos colaborativos, similar a cómo en software open source los módulos de código se comparten y reutilizan en repositorios comunitarios, al estilo de GitHub.
 
-![Imagen inicial](images/imagen_de_hibridacion_segun_manovich.jpeg)
+![Imagen tiktok2](images/imagen_de_hibridacion_segun_manovich.jpeg)
 
 Si lo analizamos con más calma, TikTok también supone un cambio importante en la forma en que utilizzamos el tiempo y la atención en los medios digitales. Frente a otros formatos tradicionales como el cine o la televisión, actualmente desfasados, donde el espectador se adapta al ritmo de la película o del programa de TV, aquí es el contenido el que se adapta constantemente al usuario. El software es el que decide la duración, el orden y el número de repeticiones, optimizando cada segundo para intentar maximizar el tiempo que pasamos mirando la pantalla.
 
