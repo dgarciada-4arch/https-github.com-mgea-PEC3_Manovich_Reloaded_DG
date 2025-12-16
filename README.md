@@ -112,3 +112,6 @@ Personalmente soy moderadamente aficionado a la astronomía, y durante muchos a�
 - Manovich, L. (2013)*El software toma el mando*. Barcelona: Editorial UOC.
 - Manovich, L. (2001)*El lenguaje de los medios*. Barcelona: Editorial Paidós.
 
+## Nota sobre el uso de inteligencia artificial
+
+En la elaboración de este trabajo se ha utilizado la inteligencia artificial generativa *ChatGPT (OpenAI, 2025)* para la creación de algunas imágenes empleadas con fines ilustrativos y académicos, debidamente indicadas en sus respectivas licencias.
