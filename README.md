@@ -102,6 +102,11 @@ Personalmente soy moderadamente aficionado a la astronomía, y durante muchos a�
 
 ![Imagen skyview3](images/yo_de_pequeño.jpeg)
 
+
+## Reflexión final: hibridación y software como motor cultural digital.
+
+Este ensayo intenta poner de manifiesto con claridad la idea central de la hibridación en los libros de Manovich: el software no actúa como un simple intermediario, sino como el elemento que fusiona medios, datos, interfaces y comportamientos. Tanto TikTok como la App de SkyView muestran cómo los límites entre tecnología, cultura y percepción se diluyen, dando lugar a  otras **experiencias mucho más dinámicas donde el usuario participa activamente**. 
+
 ---
 
 ## Recursos y enlaces
