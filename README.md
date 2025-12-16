@@ -100,17 +100,21 @@ Por todo ello, SkyView App puede considerarse un ejemplo muy claro de hibridaci�
 
 Personalmente soy moderadamente aficionado a la astronomía, y durante muchos años, ocasionalmente, he utilizado telescopios y mapas astronómicos para observar el cielo. Garantizo que Skyview ha aumentado mi (siempre pequeño) conocimiento del firmamento y ha modificado drásticamente la frecuencia con la que observaba el cielo. Definitivamente ha cambiado la forma en la que me relaciono con el espacio.
 
-
+![Imagen skyview3](images/yo_de_pequeño.jpg)
 
 ---
 
 ## Recursos y enlaces
 
 - Tik Tok. Obtenido de
-  https://www.tiktok.com  
-- https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en&pli=1
-- Manovich, L. (2013)*El software toma el mando*. Barcelona: Editorial UOC.
-- Manovich, L. (2001)*El lenguaje de los medios*. Barcelona: Editorial Paidós.
+  https://www.tiktok.com
+  
+- Skyview Lite App. Obtenido de
+  https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en&pli=1
+  
+- Manovich, L. (2013) *El software toma el mando*. Barcelona: Editorial UOC.
+  
+- Manovich, L. (2001) *El lenguaje de los medios*. Barcelona: Editorial Paidós.
 
 ## Nota sobre el uso de inteligencia artificial
 
