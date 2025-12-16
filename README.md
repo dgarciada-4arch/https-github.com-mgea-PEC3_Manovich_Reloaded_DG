@@ -55,6 +55,8 @@ SkyView App es una aplicación de realidad aumentada que permite **explorar el c
 - La visualización interactiva gracias sensores del dispositivo (cámara, GPS y giroscopio).  
 - Interfaces intuitivas de usuario.
 
+![Imagen skyview_2](images/skyview.webp)
+
 Aquí, el software hace de mediador entre espectador y realidad: la cámara del dispositivo no solo captura, sino que **transforma visualmente el cielo en un mapa interactivo** donde los distintos elementos del firmamento adquieren nombres, etiquetas y rutas. Éstas rutas te llevan de un elemento del cielo a otro, donde se enlazan para una mejor localización y comprensión 
 
 Desde la óptica de Manovich, SkyView supera la simple visualización digital: es un medio híbrido donde la realidad física y la representación científica del mapa del cielo se unenn. No se trata de un mapa fijo, como si fuera un atlas mundial, sino de un **espacio aumentado** donde el usuario navega y aprende a partir de una **interfaz interactiva basada en datos**.
@@ -73,7 +75,8 @@ Otro aspecto interesante es que SkyView no impone un modelo fijo, si no que  cad
 
 Por todo ello, SkyView App puede considerarse un ejemplo muy claro de hibridación moderna, donde realidad, datos, interfaz y cuerpo se integran en una única experiencia. Su funcionamiento confirma la tesis de Manovich de que el software no solo representa el mundo, sino que redefine nuestra forma de percibirlo, entenderlo y relacionarnos con él en la vida cotidiana.
 
-![Imagen skyview_2](images/skyview.webp)
+
+
 ---
 
 ## Recursos y enlaces
